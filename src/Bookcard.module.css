@@ -1,0 +1,25 @@
+.card{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0px 0px 20px #5C56ED;
+    width: 18%;
+    height: 350px;
+    margin: 1%;
+    flex-direction: column;
+    cursor: pointer;
+    margin-top:60px;
+}
+.cardImg{
+    width: 70%;
+    height: 70%;
+    padding: 5%;
+}
+img{
+    height: 100%;
+    width: 100%;
+}
+.title{
+    margin: 12%;
+    color: white;
+}
